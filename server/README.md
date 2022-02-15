@@ -20,6 +20,6 @@ mvn compile exec:java
 
 Check that the desired POM is selected and 'Finish'.
 
-----
+---
 
 [SD Faculty](mailto:leic-sod@disciplinas.tecnico.ulisboa.pt)

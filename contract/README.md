@@ -2,7 +2,6 @@
 
 This small library contains the definition of messages exchanged between the server and the client of the Tic Tac Toe application.
 
-
 ## Instructions for using Maven
 
 To compile and install:
@@ -10,8 +9,6 @@ To compile and install:
 ```
 mvn install
 ```
-
-
 
 ## To configure the Maven project in Eclipse
 
@@ -21,8 +18,6 @@ mvn install
 
 Check that the desired POM is selected and 'Finish'.
 
-
-----
+---
 
 [SD Faculty](mailto:leic-sod@disciplinas.tecnico.ulisboa.pt)
-

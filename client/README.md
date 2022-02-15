@@ -2,7 +2,7 @@
 
 This is a client for the REST implementation of the Tic Tac Toe game.
 
-The client depends on the contract module, where the messages shared between server and client are defined. 
+The client depends on the contract module, where the messages shared between server and client are defined.
 
 ## Instructions for using Maven
 
@@ -14,7 +14,6 @@ To compile and run the client:
 mvn compile exec:java
 ```
 
-
 ## To configure the Maven project in Eclipse
 
 'File', 'Import...', 'Maven'-'Existing Maven Projects'
@@ -23,7 +22,6 @@ mvn compile exec:java
 
 Check that the desired POM is selected and 'Finish'.
 
-
-----
+---
 
 [SD Faculty](mailto:leic-sod@disciplinas.tecnico.ulisboa.pt)
